@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="32e804b4-7668-4efe-a96f-afbb5f999bc9" name="Changes" comment="" />
+    <list default="true" id="32e804b4-7668-4efe-a96f-afbb5f999bc9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/app/(auth)/signin/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Button.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/atoms/Input.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/organism/SigninForm.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pnpm-lock.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pnpm-lock.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/globals.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/globals.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/atoms/initial.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tsconfig.json" beforeDir="false" afterPath="$PROJECT_DIR$/tsconfig.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +43,9 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "prettierjs.PrettierConfiguration.Package": "/Users/pawel/Documents/Projects/testowe/nextjsstarter/node_modules/prettier",
+    "prettierjs.PrettierConfiguration.Package": "/Users/pawel/Documents/Projects/rekrutacje/loginPage/nextjs13Starter/node_modules/prettier",
     "settings.editor.selected.configurable": "project.scopes",
-    "ts.external.directory.path": "/Applications/IntelliJ IDEA.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
+    "ts.external.directory.path": "/Users/pawel/Documents/Projects/rekrutacje/loginPage/nextjs13Starter/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -42,6 +54,7 @@
       <map>
         <entry key="com.haulmont.rcb.reactComponents" value="false" />
         <entry key="com.haulmont.rcb.reactInspector" value="false" />
+        <entry key="com.haulmont.rcb.storybook" value="false" />
       </map>
     </option>
   </component>
@@ -60,6 +73,7 @@
       <updated>1686646621819</updated>
       <workItem from="1686646626705" duration="6000" />
       <workItem from="1686646661948" duration="22303000" />
+      <workItem from="1686718728969" duration="4263000" />
     </task>
     <servers />
   </component>
